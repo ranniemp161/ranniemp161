@@ -1,6 +1,6 @@
 # Hi there, I'm Rannie! 👋
 
-### Software Developer | Video Editor | Social Media Manager | Philospher
+### Junior Software Developer | Video Editor | Social Media Manager | Philosopher
 
 I am a Junior Software Engineer, professional Video Editor, and Social Media Manager currently bridging the gap between post-production and AI development.
 
@@ -14,8 +14,7 @@ I am a Junior Software Engineer, professional Video Editor, and Social Media Man
 ---
 
 ### 🚀 What I'm Working On
-* **Founder's Frame Company**: I maintained and built the 3 applications that will help the content creators: the rough cut app, the infographics app, and the thumbnail app.
-* **Financial Literacy App**: A system analysis project for **IS104** designed to help fellow students manage their finances.
+* **Founder's Frame Company**: I maintained and built the 3 applications that will help content creators: the rough cut app, the infographics app, and the thumbnail app.
 * **The Forgotten Father**: Writing a book exploring historical and philosophical theology.
 
 ---
@@ -32,6 +31,11 @@ I am a Junior Software Engineer, professional Video Editor, and Social Media Man
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Cloud Infra of choice
+Vercel - serverless infrastructure. I like this a lot because it handles the infra for me; I don't have to worry about server management because Vercel handles it for me. Not sponsored, though; I'm not kissing their asses. I'm speaking on behalf of my UX dev experience using VERCEL.
+
+
 
 ### Video Tools
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-000000?style=for-the-badge&logo=davinci-resolve&logoColor=white)
