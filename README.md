@@ -115,6 +115,10 @@ Because apparently debugging software isn't enough intellectual suffering for on
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ranniemp161&theme=tokyonight)
 
+### 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranniemp161&layout=compact&theme=tokyonight&langs_count=8&hide_border=true)
+
 ---
 
 ## ⚡ Beyond the Code
