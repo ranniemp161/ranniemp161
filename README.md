@@ -117,7 +117,7 @@ Because apparently debugging software isn't enough intellectual suffering for on
 
 ### 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranniemp161&layout=compact&theme=tokyonight&langs_count=8&hide_border=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ranniemp161&layout=compact&theme=tokyonight&langs_count=8)
 
 ---
 
