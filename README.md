@@ -1,6 +1,6 @@
 # Hi there, I'm Rannie! 👋
 
-### Junior Software Developer | Video Editor | Social Media Manager | Philosopher
+### Software Developer at Founder's Frame | Social Media Manager | Philosopher
 
 I am a Junior Software Engineer, professional Video Editor, and Social Media Manager currently bridging the gap between post-production and AI development.
 
