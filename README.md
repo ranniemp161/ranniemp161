@@ -111,15 +111,32 @@ Because apparently debugging software isn't enough intellectual suffering for on
 
 ---
 
-## 📊 GitHub Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ranniemp161&theme=tokyonight)
 
-### 💻 Most Used Languages
+<!-- GitHub Activity -->
 
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ranniemp161&layout=compact&theme=tokyonight&langs_count=8)
+<h2>📊 GitHub Activity</h2>
 
----
+<div align="center">
+
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=ranniemp161&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    width="500"
+  />
+
+  <br/>
+
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=ranniemp161&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"
+    alt="Most Used Languages"
+    width="500"
+  />
+
+</div>
+
+
+
 
 ## ⚡ Beyond the Code
 
