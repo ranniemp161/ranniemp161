@@ -2,7 +2,7 @@
 
 ### Software Engineer | Full-Stack Developer | Systems Thinker
 
-I build software, design systems, and occasionally question the meaning of existence.
+I build software and design systems.
 
 I'm a software engineer who believes there's a significant difference between **knowing how to write code and understanding how software actually works.**
 
