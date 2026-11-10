@@ -10,8 +10,6 @@ Writing code is one thing. Understanding how your application communicates with 
 
 My focus is on building **maintainable, scalable, and secure applications**, from frontend interfaces to backend services and cloud infrastructure.
 
-I'm also a professional video editor, a philosophy enthusiast, and someone who asks *"But why?"* probably more often than necessary.
-
 ---
 
 ## 🧠 My Engineering Philosophy
